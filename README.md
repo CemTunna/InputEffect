@@ -1,3 +1,3 @@
-responsive input effect
+ input effect
 
 link --->> https://cemtunna.github.io/InputEffect/
